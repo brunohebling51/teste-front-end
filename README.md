@@ -16,10 +16,6 @@ Modal de produto
 Carrossel de produtos
 Navegação por categorias
 
-- Observações
-Para evitar problemas de CORS durante o desenvolvimento, pode ser necessário utilizar proxy local ou dados mockados.
-O foco do projeto está na interface e organização do código
-
 Projeto desenvolvido como parte de um teste técnico para vaga de Front-end.
 
 ---
